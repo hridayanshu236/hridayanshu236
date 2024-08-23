@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hridayanshu236
 - 👀 I’m interested in anything
-- 🌱 I’m currently learning Web Development and Golang
+- 🌱 I’m currently learning Web Development.
 - 😄 Pronouns: he/him
 
 
