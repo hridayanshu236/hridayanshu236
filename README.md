@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hridayanshu</h1>
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning ** Neural Networks and Deep Learning **
 
 - 📫 How to reach me **hridayanshu23@gmail.com**
 
